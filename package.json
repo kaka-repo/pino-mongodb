@@ -51,6 +51,6 @@
   },
   "dependencies": {
     "mongodb": "^4.1.0",
-    "pino-abstract-transport": "^0.3.0"
+    "pino-abstract-transport": "^0.5.0"
   }
 }
